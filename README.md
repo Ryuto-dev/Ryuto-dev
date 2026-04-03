@@ -23,15 +23,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Status
+
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuto-dev&layout=compact&count_private=true&show_icons=true&theme=transparent" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryuto-dev&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryuto-dev&show_icons=true&include_all_commits=true&show=reviews,prs_merged_percentage&theme=transparent&locale=ja" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuto-dev&layout=compact&langs_count=8&theme=transparent&locale=ja" />
+  </a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryuto-dev&theme=transparent&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📫 How to reach me
 * **X (Twitter)**: [@rumisassyu]
