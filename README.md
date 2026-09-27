@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=AsanumaRyuto&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%E6%B5%85%E6%B2%BC%20%E7%90%89%E9%9F%B3%20%7C%20Stage%20Tech%20%C3%97%20School%20DX&descAlignY=62&descSize=18)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+AsanumaRyuto+%F0%9F%91%8B;Stage+Tech+%C3%97+School+DX;第78回学苑祭「天翔る」実行委員長;Raspberry+Pi+%2F+ESP32+%2F+GAS+で学校をアップデート" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+AsanumaRyuto+%F0%9F%91%8B;Stage+Tech+%C3%97+School+DX;%E7%AC%AC78%E5%9B%9E%E5%AD%A6%E8%8B%91%E7%A5%AD%E3%80%8C%E5%A4%A9%E7%BF%94%E3%82%8B%E3%80%8D%E5%AE%9F%E8%A1%8C%E5%A7%94%E5%93%A1%E9%95%B7;Raspberry+Pi+%2F+ESP32+%2F+GAS+%E3%81%A7%E5%AD%A6%E6%A0%A1%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
