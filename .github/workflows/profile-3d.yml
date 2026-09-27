@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-3d
+  group: profile-main
   cancel-in-progress: false
 
 jobs:

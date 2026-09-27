@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ryuto%20Asanuma&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%E6%B5%85%E6%B2%BC%20%E7%90%89%E9%9F%B3%20%7C%20Stage%20Tech%20%C3%97%20School%20DX&descAlignY=62&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=AsanumaRyuto&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%E6%B5%85%E6%B2%BC%20%E7%90%89%E9%9F%B3%20%7C%20Stage%20Tech%20%C3%97%20School%20DX&descAlignY=62&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+Ryuto+Asanuma+%F0%9F%91%8B;Stage+Tech+%C3%97+School+DX;第78回学苑祭「天翔る」実行委員長;Raspberry+Pi+%2F+ESP32+%2F+GAS+で学校をアップデート)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+I%27m+AsanumaRyuto+%F0%9F%91%8B;Stage+Tech+%C3%97+School+DX;第78回学苑祭「天翔る」実行委員長;Raspberry+Pi+%2F+ESP32+%2F+GAS+で学校をアップデート" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ryuto-dev&color=0e75b6&style=flat&label=Profile+views" alt="Profile views" />
@@ -12,7 +14,7 @@
 
 ## 👋 About Me
 
-茨城県立水戸第一高等学校の生徒。**第78回学苑祭「天翔る」実行委員長**として、組織運営 × 技術演出の両輪でプロジェクトを推進しています。
+茨城県立水戸第一高等学校の生徒。**第78回学苑祭「天翔る」では実行委員長**を務め、組織運営 × 技術演出の両輪でプロジェクトを推進しました（現在は次の代に引き継ぎ済み）。
 
 技術で学校生活をアップデートすること、特に**校内DX・自動化**に情熱を注いでいます。ステージ演出技術はまだまだ勉強中です。
 
@@ -20,7 +22,7 @@
 
 ## 🔭 Current Focus
 
-- **第78回 学苑祭「天翔る」**: 実行委員長として、6月の開催に向けて組織運営と技術演出の両面から推進中
+- **第78回 学苑祭「天翔る」**: 実行委員長として開催終了 ✅ 次の代に引き継ぎ済み
 - **School Tech**: 「苑実ID」システムやデジタル生徒手帳の開発を通じた校内DX
 - **Stage Tech (勉強中)**: MagicQ や Yamaha デジタルミキサーを触りながら、ステージ演出を勉強中
 
@@ -50,30 +52,60 @@
 
 ## 🌤 Weather in Mito
 
-![Mito weather](https://wttr.in/Mito_0pq.png)
+<!-- Open-Meteo + .github/workflows/weather.yml が6時間ごとに自動更新 -->
+<!-- WEATHER:START -->
+**水戸市** — データ取得中…
 
-<!-- もっとリッチなウィジェットにしたい場合は saumiko/weather-readme-widget を fork → Vercel にデプロイ → OPENWEATHERMAP を設定して、上の画像と差し替え -->
+| 項目 | 値 |
+|---|---|
+| 🌡 気温 | -- |
+| 💧 湿度 | -- |
+| 💨 風速 | -- |
+| 📈 今日の最高 / 最低 | -- |
+| ☂ 降水確率 | -- |
+<!-- WEATHER:END -->
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryuto-dev&show_icons=true&include_all_commits=true&show=reviews,discussions_answered,prs_merged_percentage&theme=tokyonight&locale=ja&hide_border=true&bg_color=00000000" alt="stats" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryuto-dev&theme=tokyonight" alt="stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuto-dev&layout=compact&langs_count=8&theme=tokyonight&locale=ja&hide_border=true&bg_color=00000000" alt="top langs" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryuto-dev&theme=tokyonight" alt="most commit language" />
+  </a>
+  <br />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryuto-dev&theme=tokyonight" alt="repos per language" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryuto-dev&theme=tokyonight&utcOffset=9" alt="productive time" />
   </a>
   <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com?user=Ryuto-dev&locale=ja&mode=daily&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
+    <img height="180" src="https://streak-stats.demolab.com?user=Ryuto-dev&locale=ja&mode=daily&theme=tokyonight&hide_border=true" alt="streak" />
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryuto-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- github-readme-stats は提供側503が続いているため summary-cards に切替中。復旧したら戻す
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryuto-dev&show_icons=true&include_all_commits=true&show=reviews,discussions_answered,prs_merged_percentage&theme=tokyonight&locale=ja&hide_border=true" alt="stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuto-dev&layout=compact&langs_count=8&theme=tokyonight&locale=ja&hide_border=true" alt="top langs" />
+  </a>
+</p>
+-->
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryuto-dev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-activity-chart.vercel.app/graph?username=Ryuto-dev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/HardcodeCoder/Github-Activity-Chart)
+<!-- 本家 (Ashutosh00710) は提供側402で停止中のためフォーク版を使用。復旧したら https://github-readme-activity-graph.vercel.app に戻す -->
+
+<!-- trophy は提供側402で停止中のため一時コメントアウト。Vercelでのセルフホストで復活可
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryuto-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ---
 
@@ -83,8 +115,6 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-> Actions で毎日自動更新されます（`.github/workflows/profile-3d.yml`）
-
 ### Snake
 
 <picture>
@@ -92,8 +122,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryuto-dev/Ryuto-dev/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ryuto-dev/Ryuto-dev/output/github-snake.svg" />
 </picture>
-
-> Actions で毎日自動更新されます（`.github/workflows/snake.yml` → `output` ブランチ）
 
 ---
 

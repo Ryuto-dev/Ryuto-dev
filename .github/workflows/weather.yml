@@ -1,0 +1,41 @@
+name: Update Weather
+
+# Open-Meteo (APIキー不要) で水戸市の天気を取得し、README を更新する
+
+on:
+  schedule:
+    # 6時間ごと (分をずらして 3D-contrib との push 競合を回避)
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/weather.yml"
+      - ".github/scripts/update_weather.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-main
+  cancel-in-progress: false
+
+jobs:
+  weather:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - name: Update README weather block
+        run: python3 .github/scripts/update_weather.py
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update weather"
+            git pull --rebase
+            git push
+          fi
